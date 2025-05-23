@@ -1,4 +1,4 @@
-# Big Game Survey 
+# Dslist
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RudsonPaes/dslist/blob/main/LICENSE) 
 
 # 💻 Projeto desenvolvido no Intensivão Java Spring
